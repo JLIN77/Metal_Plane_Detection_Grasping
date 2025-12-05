@@ -21,14 +21,23 @@ _Classification&Localization_
 
 ## Prerequisite
 ### Hardware
+
 UR Robot
+
 Mechmind Scanner NANO ULTRA
+
 RobotIQ
+
 RealSense D415
+
 ### software
+
 VSCode
+
 Mech-Eye-Viewer
+
 Intel.RealSense.Viewer
+
 
 ---
 
@@ -50,11 +59,19 @@ python main.py
 ```
 
 Main Steps: 
+
 Step 0: connect UR Robot
+
 Step 1: capture data
+
 Step 2: data preparation
+
 Step 3: detection
+
 Step 4: generate grasp point
+
 Step 5: robot move (grasping)
+
 Step 6: check metal (classcification)
+
 Step 7: move to target place
