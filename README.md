@@ -28,7 +28,7 @@ Mechmind Scanner NANO ULTRA
 
 RobotIQ
 
-RealSense D415
+RealSense D435
 
 ### software
 
